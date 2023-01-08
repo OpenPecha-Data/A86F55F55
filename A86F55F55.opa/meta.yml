@@ -1,0 +1,19 @@
+id: A86F55F55
+title: Yarlha Shampo Sang Offering
+type: translation
+pechas:
+- IECBCC9DF
+- IEE92EE28
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:10:08.245153
+  last_modified_at: 2023-01-04 12:10:08.245156
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IECBCC9DF/C6E5: '1667'
+  IEE92EE28/C238: '1667'
